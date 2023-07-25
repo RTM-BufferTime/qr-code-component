@@ -42,7 +42,7 @@ This is my first project so I expect a lot of mistakes. I just learned HTML5 and
 
 #### HTML5
 
-  1. To open a page on a new tab - <a href="" target="_blank">
+  1. To open a page on a new tab - target="_blank"
 
 #### CSS3 SASS
 
