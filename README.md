@@ -60,7 +60,7 @@ Will continue to practice Flexbox and Grid in the future. Probably also adding s
 
 ## Author
 
-- GitHub - [BufferTime](https://github.com/BufferTime)
+- GitHub - [RTM BufferTime](https://github.com/RTM-BufferTime)
 - Frontend Mentor - [@BufferTime](https://www.frontendmentor.io/profile/BufferTime)
 
 ## Acknowledgments
